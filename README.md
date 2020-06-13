@@ -2,8 +2,8 @@
 
 [![Discord](https://img.shields.io/discord/519837781866840122?color=738ADB&label=WaZaBiX%27s%20guild&logo=Discord)](https://discord.gg/ES52WDg)
 [![npm](https://img.shields.io/npm/v/sort.js?color=blue&logo=npm)](https://www.npmjs.com/package/sort.js)
-[![NPM](https://img.shields.io/npm/l/sort.js?logo=github)]()
-[![npm](https://img.shields.io/npm/dt/sort.js?logo=npm)]()
+[![NPM](https://img.shields.io/npm/l/sort.js?logo=github)](https://github.com/wazabix-BM/sort.js/blob/master/LICENSE.md)
+[![npm](https://img.shields.io/npm/dt/sort.js?logo=npm)](https://www.npmjs.com/package/sort.js)
 
 > Simple JS library to sort different elements of an array
 
