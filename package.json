@@ -1,6 +1,6 @@
 {
   "name": "sort.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple JS library to sort different elements of an array",
   "main": "index.js",
   "scripts": {
