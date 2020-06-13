@@ -20,5 +20,8 @@
     "descending"
   ],
   "author": "wazabix",
-  "license": "MIT"
+  "license": "MIT",
+
+  "homepage": "https://github.com/wazabix-BM/sort.js#readme",
+  "repository": "https://github.com/wazabix-BM/sort.js"
 }
