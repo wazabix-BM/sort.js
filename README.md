@@ -10,7 +10,7 @@
 # Install
 
 ```sh
-npm i sort.js
+npm i @wazabix/sort.js
 ```
 
 # API
