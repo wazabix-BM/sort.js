@@ -92,6 +92,8 @@ new Sort (words, 'words').sortOption ('reverse alphabetical order', array => {
 
 All times of the day are taken care of
 
+You can see them in this picture: https://www.englishlearnsite.com/wp-content/uploads/2018/01/Times-of-The-Day.jpg
+
 ```js
 const { Sort } = require ('sort.js');
 
