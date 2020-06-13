@@ -126,5 +126,4 @@ new Sort (wordsTime, 'time').sortOption ('reverse ordered', array => {
   'morning'
 ]
 */
-```"# sort.js" 
-"# sort.js" 
+```
