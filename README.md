@@ -43,7 +43,7 @@ npm i @wazabix/sort.js
 > Used to sort numbers in ascending or descending order
 
 ```js
-const { Sort } = require ('sort.js');
+const { Sort } = require ('@wazabix/sort.js');
 
 const numbers = [15, 4, 8, 25, 1];
 
@@ -67,7 +67,7 @@ new Sort (numbers, 'numbers').sortOption ('descending', array => {
 > Used to sort words in alphabetical or non-alphabetical order
 
 ```js
-const { Sort } = require ('sort.js');
+const { Sort } = require ('@wazabix/sort.js');
 
 const words = ['mango', 'pineapple', 'kiwi', 'fruits'];
 
@@ -95,7 +95,7 @@ All times of the day are taken care of
 You can see them in this picture: https://www.englishlearnsite.com/wp-content/uploads/2018/01/Times-of-The-Day.jpg
 
 ```js
-const { Sort } = require ('sort.js');
+const { Sort } = require ('@wazabix/sort.js');
 
 const timeWords = ['night', 'morning', 'afternoon', 'early afternoon', 'noon', 'midnight'];
 
