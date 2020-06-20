@@ -97,7 +97,7 @@ You can see them in this picture: https://www.englishlearnsite.com/wp-content/up
 ```js
 const { Sort } = require ('@wazabix/sort.js');
 
-const timeWords = ['night', 'morning', 'afternoon', 'early afternoon', 'noon', 'midnight'];
+const wordsTime = ['night', 'morning', 'afternoon', 'early afternoon', 'noon', 'midnight'];
 
 new Sort (wordsTime, 'time').sortOption ('ordered', array => {
     console.log (array);
